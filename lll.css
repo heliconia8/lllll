@@ -1,0 +1,25 @@
+div{
+    height: 50px;
+    background-color: aquamarine;
+}
+
+#p1 {
+    float: left;
+    margin-left: 10px;
+}
+
+#p2 {
+    float: left;
+    margin-left: 20px;
+}
+
+#p3 {
+    float: left;
+    margin-left: 30px;
+}
+
+#p4 {
+    float: left;
+    margin-left: 40px;
+    background-color: rgb(255, 38, 38);
+}
